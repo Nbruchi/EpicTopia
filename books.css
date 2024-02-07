@@ -39,7 +39,8 @@ h2 {
    width: 90%;
    border-radius: 20px;
    object-fit: cover;
-   height: 40vh;
+   height: 60vh;
+   align-self: center;
 }
 
 #page-banner h1,
