@@ -29,12 +29,17 @@ h2 {
 #page-banner {
    background: #eee;
    padding: 10px 0;
+   display: flex;
+   flex-direction: column;
+   align-imtes: center;
+   justify-content: center;
 }
 
 #page-banner img {
    width: 90%;
    border-radius: 20px;
    object-fit: cover;
+   height: 40vh;
 }
 
 #page-banner h1,
