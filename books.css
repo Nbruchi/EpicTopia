@@ -32,15 +32,9 @@ h2 {
 }
 
 #page-banner img {
-   width: 100%;
+   width: 90%;
    border-radius: 20px;
    object-fit: cover;
-}
-
-@media (max-width:600px) {
-   #page-banner img {
-      width: 400px;
-   }
 }
 
 #page-banner h1,
